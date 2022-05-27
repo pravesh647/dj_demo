@@ -13,4 +13,4 @@ the three-step guide to making model changes:
 2. Run python manage.py makemigrations to create migrations for those changes
 3. Run python manage.py migrate to apply those changes to the database.
 
-
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction
